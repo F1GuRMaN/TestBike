@@ -8,6 +8,7 @@ public class TestBike {
 		 bike1.color = "red";
 		 bike1.numberOfWheel = 3;
 		 System.out.println(bike1.color + " " + bike1.numberOfWheel);
+		 System.out.println(bike1.color + " " + bike1.numberOfWheel);
 
 	}
 
